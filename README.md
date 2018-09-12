@@ -1,5 +1,7 @@
 # Akrep MD5 Cracker
 
+[![N|Solid](https://emregeldegul.net/wp-content/uploads/2018/09/akrepUsage.png)]( https://emregeldegul.net/2018/09/akrep-md5-cracker/)
+
 Akrep, daha önce farklı bir grup için yazdığım online, wordlist ve random seçenekleri ile MD5 hashleri çözmeye çalışan küçük bir program. Henüz kendimi geliştirdiğim dönemlerde yazdığım bir program, piyasada daha güçlü programlar da mevcut. Ama sizlerin işine yarayabileceğini düşünüyorum.
 
 ## Program Kurulum
